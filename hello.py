@@ -45,3 +45,11 @@ print("hello world")
 # print(name2)
 # print(Age)
 # print(zara_aslary)
+
+#  4.
+# width = 10
+# hight = 20
+# area = width*hight
+# perimeter =  2*(width+hight)
+# print("Area = ",area)
+# print("perimeter = ",perimeter)
