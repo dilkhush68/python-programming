@@ -53,3 +53,16 @@ print("hello world")
 # perimeter =  2*(width+hight)
 # print("Area = ",area)
 # print("perimeter = ",perimeter)
+
+
+
+
+# following is an exaample of global variables-
+x=45
+y=34
+def sum():
+    sum =x+y
+    return sum
+print(sum())
+
+
